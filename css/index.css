@@ -5798,3 +5798,10 @@ blockquote.pullquote.right {
 #page-header.full_page {
   height: 55vh;
 }
+#recent-posts > .recent-post-item {
+  height: 14em;
+}
+:root {
+  --btn-bg: #00bcd4;
+  --btn-hover-color: #8bc34a;
+}
