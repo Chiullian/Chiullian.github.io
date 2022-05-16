@@ -1,0 +1,153 @@
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
+h1#site-title {
+  font-size: 8vh!important;
+  text-shadow:5px 2px 6px #000!important;
+  font-family:Fira Code!important
+}
+span#subtitle {
+  font-size: 3vh!important;
+  text-shadow:5px 2px 6px #000!important;
+  font-family:Fira Code!important
+}
+a#site-name {
+  text-shadow:5px 2px 6px #000!important;
+  font-family:Fira Code!important
+}
+
+#article-container pre, #article-container code {
+  font-family:Fira Code!important;
+}
+.article-title {
+  font-weight: bolder;
+  font-family:Fira Code!important;
+}
+/*鼠标*/
+body {
+    cursor: url(https://cdn.jsdelivr.net/npm/kang-static/Hexo/img/default.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+        default;
+}
+/*右边的滚动柱*/
+::-webkit-scrollbar {
+    width: 10px;
+    height: 8px
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 2em;
+     background-color: rgba(73, 177, 245, .2); 
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(25 100 164 / 74%);
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+    border-radius: 2em
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent
+}
+
+/* 页脚透明渐变 */
+#footer {
+    background: rgba(255,255,255,.15);
+    color: #000;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    backdrop-filter: saturate(100%) blur(5px)
+}
+
+#footer::before {
+    background: rgba(255,255,255,.15)
+}
+
+#footer #footer-wrap {
+    color: var(--font-color)
+}
+
+#footer #footer-wrap a {
+    color: var(--font-color)
+}
+
+
+.categoryBar-list {
+    max-height: 400px;
+}
+
+.clock-row {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*3s为加载动画的时间，1为加载动画的次数，ease-in-out为动画效果*/
+
+#page-header,
+#web_bg {
+    -webkit-animation: imgblur 2s 1 ease-in-out;
+    animation: imgblur 2s 1 ease-in-out;
+}
+
+@keyframes imgblur {
+    0% {
+        filter: blur(5px);
+    }
+    100% {
+        filter: blur(0px);
+    }
+}
+
+/*适配使用-webkit内核的浏览器 */
+
+@-webkit-keyframes imgblur {
+    0% {
+        -webkit-filter: blur(5px);
+    }
+    100% {
+        -webkit-filter: blur(0px);
+    }
+}
+.table-wrap img {
+    margin: .6rem auto .1rem !important;
+}
+
+/* 标签外挂 网站卡片 start */
+
+.site-card-group img {
+    margin: 0 auto .1rem !important;
+}
+
+.site-card-group .info a img {
+    margin-right: 10px !important;
+}
+
+[data-theme='dark'] .site-card-group .site-card .info .title {
+    color: #f0f0f0 !important;
+}
+
+[data-theme='dark'] .site-card-group .site-card .info .desc {
+    color: rgba(255, 255, 255, .7) !important;
+}
+
+.site-card-group .info .desc {
+    margin-top: 4px !important;
+}
+/* 代码块颜色 */
+
+figure.highlight pre .addition {
+    color: #00bf03 !important;
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
