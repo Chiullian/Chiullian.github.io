@@ -5899,3 +5899,7 @@ div.timenode .meta:after {
   --btn-hover-color: #8bc34a;
   --card-hover-box-shadow: 0 3px 8px 6px rgba(3,169,244,0.302);
 }
+#nav .site-page {
+  font-size: 0.9em;
+  font-weight: bold;
+}
