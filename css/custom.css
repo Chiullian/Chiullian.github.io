@@ -133,6 +133,8 @@ img {
     color: rgba(255, 255, 255, .7) !important;
 }
 
+
+
 .site-card-group .info .desc {
     margin-top: 4px !important;
 }
@@ -168,40 +170,6 @@ figure.highlight pre .addition {
 
 
 
-/* 文章页背景 */
-.layout>div:first-child:not(.recent-posts) {
-    /* 以下代表白色透明度为0.3 */
-    background: rgba(255,255,255,1);
-}
-
-/* 首页文章卡片 */
-#recent-posts > .recent-post-item{
-    background:rgba(255, 255, 255, 0.9);
-}
-/* 首页侧栏卡片 */
-.card-widget{
-  background:rgba(255, 255, 255, 0.9)!important;
-}
-/* 文章页面正文背景 */
-div#post{
-  background: rgba(255, 255, 255, 0.9);
-}
-/* 分页页面 */
-div#page{
-  background: rgba(255, 255, 255, 0.9);
-}
-/* 归档页面 */
-div#archive{
-  background: rgba(255, 255, 255, 0.9);
-}
-/* 标签页面 */
-div#tag{
-  background: rgba(255, 255, 255, 0.9);
-}
-/* 分类页面 */
-div#category{
-  background: rgba(255, 255, 255, 0.9);
-}
 
 /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
 #page-header.post-bg:before {
@@ -211,6 +179,7 @@ div#category{
     background: transparent!important;
 }
 /*夜间模式伪类遮罩层透明*/
+/*
 [data-theme="dark"]
   #footer::before{
       background: transparent!important;
@@ -248,7 +217,7 @@ div#category{
       color: #ffffff;
       }
 
-
+*/
 svg.icon {
   /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
    width: 1em; height: 1em;
@@ -356,6 +325,41 @@ ul.menus_item_child {
 #nav .menus_items .menus_item .menus_item_child {
   margin-top: 0px !important;
 }
+
+/*星空背景*/
+#universe{
+  display: block;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+[data-theme="dark"]
+  #web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url(https://s2.loli.net/2022/05/19/zNigEOmqAK8C2uZ.png);
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+  }
+
+
+
+
+
+
+
+
+
 
 
 /*---------------------------------------------------------------------------*/
@@ -640,11 +644,7 @@ div#author-info__sayhi {
   color: var(--heo-white)
 }
 
-#aside-content .card-info .author-info__name {
-  text-align: center;
-  font-weight: 900;
-  color: #000
-}
+
 
 #aside-content>div.card-widget.card-info>div>div.card-info-avatar.is-center>div.author-info__description {
   line-height: 1.38;
@@ -1015,6 +1015,7 @@ blockquote {
 
 
 /* =Infinite Scroll*/
+/*导航栏*/
 /***********************************************************************************/
 :root{
     --mj-white: #fff;
@@ -1157,7 +1158,6 @@ blockquote {
     #nav #site-name:hover #site-name-icon{opacity: 0;}
     #nav #site-name:hover:after{opacity:1;transform:translateY(0);transition-timing-function:ease-out}
     #nav #site-name:after{
-        background: url(/img/home.png) no-repeat 50% 50%;
         opacity: 0;
         position: absolute;
         display:none;

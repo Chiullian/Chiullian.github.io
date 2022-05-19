@@ -1,3 +1,6 @@
+https://chiullian.cn/music/index.html
+https://chiullian.cn/2022/05/18/AcWing%E7%AC%AC51%E5%9C%BA%E5%91%A8%E8%B5%9B/
+https://chiullian.cn/2022/05/11/AcWing%E7%AC%AC50%E5%9C%BA%E5%91%A8%E8%B5%9B/
 https://chiullian.cn/notice/index.html
 https://chiullian.cn/2022/04/11/%E5%8D%81%E4%B8%89%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%90%8E%E6%84%9F/
 https://chiullian.cn/2022/04/06/%E4%B8%80%E5%88%87%E7%9A%84%E5%BC%80%E5%A7%8B/
@@ -13,7 +16,6 @@ https://chiullian.cn/2022/04/11/Codeforces-Codeforces-Round-779-Div-2/
 https://chiullian.cn/2022/05/13/CodeforcesRound-780-Div-3/
 https://chiullian.cn/2022/04/20/Acwing%E7%AC%AC47%E5%9C%BA%E5%91%A8%E8%B5%9B/
 https://chiullian.cn/2022/04/20/Acwing%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982022-4%E6%9C%8818%E6%97%A5-4%E6%9C%8824%E6%97%A5/
-https://chiullian.cn/2022/05/11/AcWing%E7%AC%AC50%E5%9C%BA%E5%91%A8%E8%B5%9B/
 https://chiullian.cn/2022/05/11/AcWing%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982022%E5%B9%B45%E6%9C%889%E6%97%A5-5%E6%9C%8815%E6%97%A5/
 https://chiullian.cn/2022/04/23/AcWing%E7%AC%AC48%E5%9C%BA%E5%91%A8%E8%B5%9B/
 https://chiullian.cn/2022/05/02/AcWing%E7%AC%AC49%E5%9C%BA%E5%91%A8%E8%B5%9B/
@@ -21,16 +23,15 @@ https://chiullian.cn/2022/04/25/AcWing%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982022-4
 https://chiullian.cn/2022/04/12/AcWing%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/
 https://chiullian.cn/link/index.html
 https://chiullian.cn/photo/index.html
-https://chiullian.cn/music/index.html
 https://chiullian.cn/photo/wallpaper/index.html
 https://chiullian.cn/comments/index.html
 https://chiullian.cn/tags/index.html
 https://chiullian.cn/categories/index.html
 https://chiullian.cn/
 https://chiullian.cn/tags/%E7%AE%97%E6%B3%95/
+https://chiullian.cn/tags/c/
 https://chiullian.cn/tags/C/
 https://chiullian.cn/tags/AcWing/
-https://chiullian.cn/tags/c/
 https://chiullian.cn/tags/Kuangbin%E9%A2%98%E5%8D%95/
 https://chiullian.cn/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/
 https://chiullian.cn/tags/latex/
