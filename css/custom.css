@@ -57,7 +57,7 @@ img {
 
 /* 页脚透明渐变 */
 #footer {
-    background: rgba(255,255,255,.15);
+    background: transparent!important;
     color: #000;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
@@ -65,7 +65,7 @@ img {
 }
 
 #footer::before {
-    background: rgba(255,255,255,.15)
+    background: transparent!important
 }
 
 #footer #footer-wrap {
@@ -1004,16 +1004,6 @@ blockquote {
     white-space: inherit!important
   }
 }
-
-#footer:before {
-  position: absolute!important;
-  width: 100%!important;
-  height: 100%!important;
-  content: ""!important;
-  background-color: var(--heo-maskbg)!important;
-  z-index: -1
-}
-
 
 
 /* =Infinite Scroll*/
