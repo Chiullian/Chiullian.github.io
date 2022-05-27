@@ -1,3 +1,4 @@
+https://chiullian.cn/2022/05/27/Codeforces1686/
 https://chiullian.cn/2022/05/26/Codeforces1682/
 https://chiullian.cn/2022/05/24/Codeforces1680/
 https://chiullian.cn/2022/05/02/AcWing%E7%AC%AC49%E5%9C%BA%E5%91%A8%E8%B5%9B/
@@ -36,17 +37,17 @@ https://chiullian.cn/tags/c/
 https://chiullian.cn/tags/C/
 https://chiullian.cn/tags/AcWing/
 https://chiullian.cn/tags/codeforce/
-https://chiullian.cn/tags/go%E8%AF%AD%E8%A8%80/
 https://chiullian.cn/tags/Kuangbin%E9%A2%98%E5%8D%95/
 https://chiullian.cn/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/
 https://chiullian.cn/tags/latex/
 https://chiullian.cn/tags/butterfly/
 https://chiullian.cn/tags/%E6%A8%A1%E6%9D%BF/
+https://chiullian.cn/tags/go%E8%AF%AD%E8%A8%80/
 https://chiullian.cn/categories/AcWing%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/
 https://chiullian.cn/categories/AcWing%E5%91%A8%E8%B5%9B/
 https://chiullian.cn/categories/Codeforce/
-https://chiullian.cn/categories/go%E8%AF%AD%E8%A8%80/
 https://chiullian.cn/categories/Kuangbin%E9%A2%98%E5%8D%95/
-https://chiullian.cn/categories/%E7%AE%97%E6%B3%95%E7%9A%84%E7%AC%94%E8%AE%B0/
 https://chiullian.cn/categories/%E4%BB%A3%E7%A0%81%E6%BA%90%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/
 https://chiullian.cn/categories/%E3%80%8A%E8%B5%9B%E5%90%8E%E6%84%9F%E6%83%B3%E3%80%8B/
+https://chiullian.cn/categories/%E7%AE%97%E6%B3%95%E7%9A%84%E7%AC%94%E8%AE%B0/
+https://chiullian.cn/categories/go%E8%AF%AD%E8%A8%80/
