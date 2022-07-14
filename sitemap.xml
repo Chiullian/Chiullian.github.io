@@ -424,13 +424,6 @@
   </url>
   
   <url>
-    <loc>https://chiullian.cn/tags/Kuangbin%E9%A2%98%E5%8D%95/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://chiullian.cn/tags/Java/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -501,6 +494,13 @@
   </url>
   
   <url>
+    <loc>https://chiullian.cn/tags/Kuangbin%E9%A2%98%E5%8D%95/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://chiullian.cn/tags/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -531,13 +531,6 @@
   </url>
   
   <url>
-    <loc>https://chiullian.cn/categories/Kuangbin%E9%A2%98%E5%8D%95/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://chiullian.cn/categories/Java/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -559,6 +552,20 @@
   </url>
   
   <url>
+    <loc>https://chiullian.cn/categories/Kuangbin%E9%A2%98%E5%8D%95/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiullian.cn/categories/%E7%AE%97%E6%B3%95%E7%9A%84%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://chiullian.cn/categories/%E4%BB%A3%E7%A0%81%E6%BA%90%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -567,13 +574,6 @@
   
   <url>
     <loc>https://chiullian.cn/categories/%E3%80%8A%E8%B5%9B%E5%90%8E%E6%84%9F%E6%83%B3%E3%80%8B/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiullian.cn/categories/%E7%AE%97%E6%B3%95%E7%9A%84%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
