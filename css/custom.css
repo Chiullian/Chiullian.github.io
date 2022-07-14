@@ -1235,3 +1235,8 @@ blockquote {
 }
 
 /*****************************************************************************/
+#bbTimeList {
+  font-size: 20px;
+  padding: 1rem 1rem 1rem 1rem;
+  align-items: center
+}
